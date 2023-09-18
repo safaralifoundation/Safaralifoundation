@@ -1,0 +1,12 @@
+body{
+  background: skyblue;
+  font-size: 10pt;
+}
+div{
+  background: white;
+}
+div h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
