@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
 body{
   font-size: 10pt;
- 
-  background-image: url(/img/bg.jpg);
+  font-family: 'Nunito', sans-serif;
+  background-image: url(bg.jpg);
   background-size:cover;
-
+ background-position:center;
 }
 *{
   margin:0;
